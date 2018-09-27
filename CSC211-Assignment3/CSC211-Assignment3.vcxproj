@@ -117,10 +117,11 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MyStats.cpp" />
-    <ClCompile Include="TestMyStats.h" />
+    <ClCompile Include="TestMyStats.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyStats.h" />
+    <ClInclude Include="TestMyStats.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

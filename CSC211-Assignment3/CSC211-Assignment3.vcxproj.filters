@@ -21,12 +21,15 @@
     <ClCompile Include="MyStats.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TestMyStats.h">
+    <ClCompile Include="TestMyStats.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MyStats.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TestMyStats.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
