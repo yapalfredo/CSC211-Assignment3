@@ -1,9 +1,7 @@
-#include "TestMyStats.cpp"
-
+#include "TestMyStats.h"
 
 int main() {
-
-	mainLoader();
-
+	
+	system("Pause");
 	return 0;
 }
