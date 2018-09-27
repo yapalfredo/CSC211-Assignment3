@@ -24,6 +24,5 @@ void TestMyStats::loadMyStat()
 	cout << "The largest value stored in the array is: " << _myStat.findLargest() << endl;
 
 	cout << endl;
-	cout << "The smallest value stored in the array is: " << _myStat.findSmallest() << endl;
-
+	cout << "The smallest value stored in the array is: " << _myStat.findSmallest() << endl << endl;
 }
