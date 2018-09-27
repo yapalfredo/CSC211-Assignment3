@@ -2,7 +2,7 @@
 
 int main() {
 	
-	//initialized an object of TestMyStats.
+	//initialized an instance of object TestMyStats
 	TestMyStats stat;
 
 	stat.loadMyStat();

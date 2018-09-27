@@ -17,12 +17,14 @@ private:
 public:
 	//CONSTRUCTOR
 	MyStats();
+
 	//DESTRUCTOR
 	~MyStats();
 
 	// MUTATORS
 	void setArrStat(int, int, int); 
 	void setTemp(int);
+
 	// ACCESSORS
 	int getArrStat(int, int);
 	int getTemp();

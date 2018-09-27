@@ -13,6 +13,7 @@ TestMyStats::~TestMyStats()
 
 void TestMyStats::loadMyStat()
 {
+	// this class will be loaded in the main function
 	cout << "The initialized values of elements in the array are: " << endl << endl;
 	_myStat.print();
 
