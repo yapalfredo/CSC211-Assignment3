@@ -5,6 +5,7 @@ int main() {
 	//initialized an instance of object TestMyStats
 	TestMyStats stat;
 
+	//call function
 	stat.loadMyStat();
 
 	system("Pause");

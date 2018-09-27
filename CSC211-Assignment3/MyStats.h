@@ -6,6 +6,7 @@
 
 using namespace std;
 
+// GLOBAL VARIABLES
 const int rowSize = 10;
 const int colSize = 10;
 

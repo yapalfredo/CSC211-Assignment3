@@ -49,7 +49,7 @@ void MyStats::init()
 	{
 		for (int col = 0; col < colSize; col++)
 		{
-			setArrStat(row, col, (rand() % (0 + 255)) - 128);
+			setArrStat(row, col, (rand() % (0 + 256)) - 128);
 		}
 	}
 }
